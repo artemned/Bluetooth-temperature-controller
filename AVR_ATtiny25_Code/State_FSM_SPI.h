@@ -19,7 +19,7 @@
 
 uint8_t readPIN(uint8_t pin)
 {
-	return !!(PINB & _BV(pin));
+	return !!(READ_PIN_B & _BV(pin));
 }
 
 inline void digitalOFF(uint8_t& pin)
