@@ -8,7 +8,7 @@
 #define loop_until_bit_is_set(sfr, bit) do { } while (bit_is_clear(sfr, bit))
 #define loop_until_bit_is_clear(sfr, bit) do { } while (bit_is_set(sfr, bit))
 
-/*In summary, here?s a recap of the three important bit-twiddling operations. Let?s say you?re trying to write
+/*
 bit i in byte BYTE:
 Set a bit
 BYTE |= (1 << i);
