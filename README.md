@@ -9,9 +9,7 @@
 <img src=https://github.com/artemned/Bluetooth-temperature-controller/blob/main/Image/Base-Additional.jpg>
 
  ### *The entire project is covered by a free license. If you have suggestions on how to improve it, contact me via email and we will definitely think together about how this can be done better. Sound criticism is always welcome.*
- 
-### *P.S. Everyone goodness and fresh cookies!*
+ ### *P.S. Everyone goodness and fresh cookies!*
  
  ### *License: [Free license](https://github.com/artemned/Bluetooth-temperature-controller/blob/main/LICENSE)*
- 
  ### *Email address for feedback: daineko.a32@mail.ru*
